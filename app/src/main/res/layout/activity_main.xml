@@ -13,5 +13,12 @@
         android:layout_height="match_parent"
         android:name="com.jiahaoliuliu.fragmentcommunication.ASimpleFragment"
         />
+    <TextView
+        android:id="@+id/data_from_fragment_tv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:text="Texting"
+        android:gravity="center"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
