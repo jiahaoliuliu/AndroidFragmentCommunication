@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FragmentCommunication</string>
+    <string name="hello_blank_fragment">Send data back</string>
 </resources>
